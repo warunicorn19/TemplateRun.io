@@ -11,7 +11,6 @@ assignees: ''
 #### Desired Behavior
 <!-- A brief description of what you expected to happen. -->
 
-#### Implementation
 <!-- Specifics on the approach to fulfilling the feature request. -->
 
 #### Acceptance Tests
