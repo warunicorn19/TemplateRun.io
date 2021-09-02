@@ -18,7 +18,3 @@ assignees: ''
 #### Environment
 
 ---
-
-#### Contributor Guides and Resources
-
-- 🎨 Wireframes and designs for Meshery UI in [Figma](https://www.figma.com/file/lX9Vx4Wax9tDDSPtuUH76w/TemplateRun-site?node-id=312%3A2)
